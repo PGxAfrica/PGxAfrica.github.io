@@ -1,1 +1,8 @@
 site_name: Test Website
+
+repo_name: 'PGxAfrica.github.io'
+repo_url: https://github.com/PGxAfrica/PGxAfrica.github.io
+
+
+nav:
+    - Introduction: /
