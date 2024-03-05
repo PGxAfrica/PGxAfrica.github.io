@@ -1,6 +1,1 @@
-mkdocs.yml
-docs/
-    index.md
-
-nav:
-  - Home: 'index.md'
+site_name: Test Website
