@@ -9,6 +9,7 @@ nav:
 
 
 theme:
+  name: mkdocs
   features:
     - navigation.tabs
     - navigation.tabs.sticky
