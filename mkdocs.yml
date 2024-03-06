@@ -11,7 +11,7 @@ nav:
 
 
 theme:
-  name: mkdocs
+  name: material
   features:
     - navigation.tabs
     - navigation.tabs.sticky
