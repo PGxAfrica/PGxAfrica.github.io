@@ -15,3 +15,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+
+markdown_extensions:
+  - toc:
+      permalink: true
