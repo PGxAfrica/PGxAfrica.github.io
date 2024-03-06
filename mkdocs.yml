@@ -11,7 +11,7 @@ nav:
 
 
 theme:
-  name: readthedocs
+  name: mkdocs
   features:
     - navigation.tabs
     - navigation.tabs.sticky

@@ -1,3 +1,5 @@
+## People
+
 Collen Masimirembwa
 Janine Scholefield
 Tinashe Adrian Mazindhu
