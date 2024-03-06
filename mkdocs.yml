@@ -6,3 +6,11 @@ repo_url: https://github.com/PGxAfrica/PGxAfrica.github.io
 
 nav:
     - Introduction: /
+
+
+theme:
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
